@@ -1,6 +1,10 @@
 # Customer-Analytics-in-Python
 Using Jupyter notebook, I am doing how to segment data for a big marketing company.
 
+### I am doing this course https://www.udemy.com/course/customer-analytics-in-python/
+
+I will cover everything in here.
+
 ## Required 
      - Anaconda (3.6 or 2.7) (I am using latest version 3.8)
      - Python (3.8 or 2.7) (I am using both)
