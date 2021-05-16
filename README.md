@@ -28,6 +28,9 @@ I will cover everything in here.
      - Standardization
      - Hierarchical Clustering
      - Dendrogram
+     - KMeans and Standard Deviation
+     - Decompostions
+     - Segmentations
 
 ## Featured Libraries
      - Numpy
@@ -38,3 +41,6 @@ I will cover everything in here.
      - StandardScaler
      - Dendrogram
      - Linkage
+     - pickle
+     - PCA
+     - KMeans
