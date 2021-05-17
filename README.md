@@ -9,6 +9,12 @@ I will cover everything in here.
      - Anaconda (3.6 or 2.7) (I am using latest version 3.8)
      - Python (3.8 or 2.7) (I am using both)
 
+## Featured Major Topics
+     - K-Means Clustering
+     - PCA dimensionality reduction
+     - Purchase Analytics
+     - Descriptive Analytics
+
 ## Featured Topics
      
      - Segmentation: STP Framework
