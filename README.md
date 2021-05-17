@@ -37,6 +37,8 @@ I will cover everything in here.
      - KMeans and Standard Deviation
      - Decompostions
      - Segmentations
+     - Linear Regressions
+     - Logistic Regressions
 
 ## Featured Libraries
      - Numpy
